@@ -10,14 +10,3 @@ The next player for the second board is on the next line, and so on.
 
 Results go to standard out.
 
-Example with 2 boards:
-
-2
-X
-X_X
-OXO
-XO_
-O
-XOX
-__O
-X_O
